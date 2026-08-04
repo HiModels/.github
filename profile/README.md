@@ -1,72 +1,71 @@
-# HiModels
+<p align="center">
+  <a href="https://himodels.ai">
+    <img src="https://himodels.ai/social-img.png" alt="HiModels" width="100%" />
+  </a>
+</p>
 
-<div align="center">
+<h1 align="center">HiModels</h1>
 
-**Build AI Applications with Powerful Models and Agent Infrastructure.**
+<p align="center">
+Build AI Applications with Models, Agents and Developer Infrastructure.
+</p>
 
-[Website](https://himodels.ai) ·
-[Documentation](https://himodels.ai/docs) ·
-[Skills](https://himodels.ai/skills)
-
-</div>
-
----
-
-## About HiModels
-
-HiModels is an AI infrastructure platform that helps developers build intelligent applications with leading AI models and agent capabilities.
-
-We provide unified access to models, tools, skills, and agent services, making it easier to develop, integrate, and deploy AI applications.
-
-## What We Build
-
-### 🧠 AI Model Infrastructure
-
-Unified access to leading AI models through developer-friendly APIs.
-
-### 🤖 Agent Capabilities
-
-Build AI agents with tools, skills, and extensible capabilities.
-
-### 🧩 Skills & Plugins
-
-Reusable components that extend AI applications with new capabilities.
-
-### 🔧 Developer Tools
-
-Open resources, examples, and utilities for building AI-powered workflows.
+<p align="center">
+  <a href="https://himodels.ai"><strong>Website</strong></a> •
+  <a href="https://himodels.ai/docs"><strong>Documentation</strong></a> •
+  <a href="https://himodels.ai/skills"><strong>Skills Marketplace</strong></a>
+</p>
 
 ---
 
-## Explore HiModels
+## 🚀 About
 
-🌐 Website  
-https://himodels.ai
+HiModels is an AI development platform that helps developers build, integrate and deploy intelligent applications with modern AI models and agent capabilities.
 
-📚 Documentation  
-https://himodels.ai/docs
-
-🧩 Skills Marketplace  
-https://himodels.ai/skills
+This organization hosts open-source projects, examples and developer resources from the HiModels ecosystem.
 
 ---
 
-## Open Source
+## ✨ What You'll Find Here
 
-This organization contains open-source projects, examples, and developer resources from the HiModels ecosystem.
-
-Our goal is to make AI development more accessible and help developers build the next generation of intelligent applications.
-
----
-
-## Community
-
-We welcome developers, researchers, and AI enthusiasts to explore, contribute, and share ideas.
-
-⭐ Star our repositories  
-💡 Share feedback  
-🚀 Build with HiModels
+- 🧠 **AI Model Integration** — Unified access to leading AI models.
+- 🤖 **Agent Infrastructure** — Build AI agents with tools, skills and extensible workflows.
+- 🧩 **Skills & Plugins** — Reusable components for intelligent applications.
+- ⚡ **Developer Examples** — Sample projects, templates and best practices.
+- 📚 **Documentation** — Guides for building and integrating AI solutions.
 
 ---
 
-Copyright © HiModels
+## 🌍 Quick Links
+
+| Resource | Link |
+| -------- | ---- |
+| 🌐 Website | https://himodels.ai |
+| 📖 Documentation | https://himodels.ai/docs |
+| 🧩 Skills Marketplace | https://himodels.ai/skills |
+
+---
+
+## ❤️ Open Source
+
+We're building an open ecosystem for AI developers.
+
+Whether you're creating AI agents, integrating large language models, or building reusable skills and plugins, we hope these projects help you move faster.
+
+Contributions, feedback and ideas are always welcome.
+
+---
+
+<p align="center">
+
+⭐ Star our repositories &nbsp;&nbsp;•&nbsp;&nbsp;
+🚀 Build with HiModels &nbsp;&nbsp;•&nbsp;&nbsp;
+💬 Join the community
+
+</p>
+
+---
+
+<p align="center">
+Made with ❤️ by <a href="https://himodels.ai">HiModels</a>
+</p>
