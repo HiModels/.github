@@ -14,7 +14,7 @@ Build AI Applications with Models, Agents and Developer Infrastructure.
 
 <p align="center">
 <a href="https://himodels.ai">
-<img src="https://himodels.ai/social-img.png" width="65%" alt="HiModels"/>
+<img src="./banner.png" width="65%" alt="HiModels"/>
 </a>
 </p>
 
